@@ -1,0 +1,16 @@
+@import url(http://fonts.googleapis.com/css?family=Kaushan+Script|Covered+By+Your+Grace|Cinzel|Rock+Salt);
+html {
+  color: gray;
+  background-color: #ffccaa
+}
+
+
+h1 {
+  font-family: 'Rock Salt';
+}
+h2 {
+  font-family: 'Covered By Your Grace'
+}
+body{
+  font-family: 'Cinzel'
+}
